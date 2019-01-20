@@ -1,11 +1,11 @@
 # Site
-title:              Mittin-Singh
+title:               "Mittin-Singh"
 bio:                'Data Scientist @Qualcomm Inc.'
 description:        "Data is the new science. Big Data holds the answers."
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/mittin.jpg'
-background:         'assets/img/backtheme.png'
+background:         'assets/img/placeholder-big.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
 url:                https://taylantatli.github.io/Moon
@@ -37,12 +37,12 @@ disqus_shortname:   taylantatli
   #ad-client:
   #ad-slot:
 #bing-verify:
-#email:
-twitter:            Mittinpreet Singh
-facebook:           Mittinpreet.Singh.Nayyar
-github-url:         Mittin-Singh
+#email:             mittinsingh@gmail.com
+twitter:            Mittinpreet Singh/
+facebook:           /Mittinpreet.Singh.Nayyar/
+github-url:         Mittin-Singh/
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
-#linkedin:          mittinpreet-singh-nayyar
+#linkedin:          mittinpreet-singh-nayyar/
 #xing:              username
 instagram:          mittinnayyar
 #lastfm:            username
@@ -70,7 +70,7 @@ gems:
   - jekyll-gist
 
 jekyll-mentions:
-    base_url: https://github.com
+    base_url: https://mittin-singh.github.io/Mittin-Singh/
 
 # Exclude list
 exclude: [README.md, Gemfile, Gemfile.lock, node_modules, gulpfile.js, package.json, _site, src, vendor, CNAME, LICENSE, Rakefile]
