@@ -22,7 +22,7 @@ If you want to chat or just say Hi!, shoot me an email at the email address prov
 * Mobile: +91-7087083007
 
 
-<form action="https://formspree.io/your@email.com" method="POST">
+<form action="https://formspree.io/mittinsingh@gmail.com" method="POST">
   Name: <input type="text" name="name"><br><br>
   Email: <input type="email" name="_replyto"><br><br>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<input type="submit" value="Submit">
