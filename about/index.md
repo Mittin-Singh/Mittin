@@ -20,3 +20,10 @@ If you want to chat or just say Hi!, shoot me an email at the email address prov
 
 * Email : mittinsingh@gmail.com
 * Mobile: +91-7087083007
+
+
+<form action="https://formspree.io/your@email.com" method="POST">
+  <input type="text" name="name">
+  <input type="email" name="_replyto">
+  <input type="submit" value="Send">
+</form>
