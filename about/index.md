@@ -24,6 +24,6 @@ If you want to chat or just say Hi!, shoot me an email at the email address prov
 
 <form action="https://formspree.io/your@email.com" method="POST">
   Name: <input type="text" name="name"><br>
-  Email: <input type="email" name="_replyto"><br>
-  <input type="submit" value="Send">
+  Email: <input type="email" name="_replyto"><br><br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<input type="submit" value="Send">
 </form>
