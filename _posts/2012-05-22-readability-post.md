@@ -1,45 +1,173 @@
 ---
 layout: post
-title: "Testing Readability with a Bunch of Text"
-date: 2012-05-22
-excerpt: "A ton of text to test readability."
-tags: [sample post, readability, test]
+title: 'Python Introduction '
+date: {}
+excerpt: A ton of text to test readability.
+tags:
+  - sample post
+  - readability
+  - test
 comments: true
+published: false
 ---
 
-Portland in shoreditch Vice, labore typewriter pariatur hoodie fap sartorial Austin. Pinterest literally occupy Schlitz forage. Odio ad blue bottle vinyl, 90's narwhal commodo bitters pour-over nostrud. Ugh est hashtag in, fingerstache adipisicing laboris esse Pinterest shabby chic Portland. Shoreditch bicycle rights anim, flexitarian laboris put a bird on it vinyl cupidatat narwhal. Hashtag artisan skateboard, flannel Bushwick nesciunt salvia aute fixie do plaid post-ironic dolor McSweeney's. Cliche pour-over chambray nulla four loko skateboard sapiente hashtag.
+In this tutorial, we will introduce you to Python Programming. We will discuss about features of Python, Python architecture and its applications in the IT industry. Also, we will learn about Python in Data Science | Big Data | Machine Learning etc and we will also prepare for Interview Questionaires as well.
 
-Vero laborum commodo occupy. Semiotics voluptate mumblecore pug. Cosby sweater ullamco quinoa ennui assumenda, sapiente occupy delectus lo-fi. Ea fashion axe Marfa cillum aliquip. Retro Bushwick keytar cliche. Before they sold out sustainable gastropub Marfa readymade, ethical Williamsburg skateboard brunch qui consectetur gentrify semiotics. Mustache cillum irony, fingerstache magna pour-over keffiyeh tousled selfies.
+There’s a reason they choose Python as an introductory language for programming. 
+Simplicity 
+Concise
+Easiness to grasp Python Concept. 
 
-## Cupidatat 90's lo-fi authentic try-hard
+It also equips you to build so much.
 
-In pug Portland incididunt mlkshk put a bird on it vinyl quinoa. Terry Richardson shabby chic +1, scenester Tonx excepteur tempor fugiat voluptate fingerstache aliquip nisi next level. Farm-to-table hashtag Truffaut, Odd Future ex meggings gentrify single-origin coffee try-hard 90's.
+#                               So, let’s start this Python Tutorial.
 
-* Sartorial hoodie
-* Labore viral forage
-* Tote bag selvage
-* DIY exercitation et id ugh tumblr church-key
+## 1. What is Python ?
 
-Incididunt umami sriracha, ethical fugiat VHS ex assumenda yr irure direct trade. Marfa Truffaut bicycle rights, kitsch placeat Etsy kogi asymmetrical. Beard locavore flexitarian, kitsch photo booth hoodie plaid ethical readymade leggings yr.
+Python is a widely used general-purpose, high level, Orthogonal programming language. It is also dynamically-typed because it carries out type-checking at runtime. It was initially designed by Guido van Rossum in 1991 and developed by Python Software Foundation. It was mainly developed for emphasis on code readability, and its syntax allows programmers to express concepts in fewer lines of code.The Python IDLE (Integrated Development Environment) executes instructions one line at a time. This also lets us use it as a calculator.
 
-Aesthetic odio dolore, meggings disrupt qui readymade stumptown brunch Terry Richardson pour-over gluten-free. Banksy american apparel in selfies, biodiesel flexitarian organic meh wolf quinoa gentrify banjo kogi. Readymade tofu ex, scenester dolor umami fingerstache occaecat fashion axe Carles jean shorts minim. Keffiyeh fashion axe nisi Godard mlkshk dolore. Lomo you probably haven't heard of them eu non, Odd Future Truffaut pug keytar meggings McSweeney's Pinterest cred. Etsy literally aute esse, eu bicycle rights qui meggings fanny pack. Gentrify leggings pug flannel duis.
+Python is a programming language that lets you work quickly and integrate systems more efficiently.
 
-## Forage occaecat cardigan qui
+## 2. Why it is called Python ?
 
-Fashion axe hella gastropub lo-fi kogi 90's aliquip +1 veniam delectus tousled. Cred sriracha locavore gastropub kale chips, iPhone mollit sartorial. Anim dolore 8-bit, pork belly dolor photo booth aute flannel small batch. Dolor disrupt ennui, tattooed whatever salvia Banksy sartorial roof party selfies raw denim sint meh pour-over. Ennui eu cardigan sint, gentrify iPhone cornhole.
+Guido van Rossum named it after the comedy group Monty Python. A lot of implementations today run version 2.x, but the future belongs to Python 3.x. It is also called ‘Python 3000’ or ‘Py3K’. CPython, written in C, is the most common implementation of Python.
 
-> Whatever velit occaecat quis deserunt gastropub, leggings elit tousled roof party 3 wolf moon kogi pug blue bottle ea. Fashion axe shabby chic Austin quinoa pickled laborum bitters next level, disrupt deep v accusamus non fingerstache.
+## 3. Origin of Python ?
 
-Tote bag asymmetrical elit sunt. Occaecat authentic Marfa, hella McSweeney's next level irure veniam master cleanse. Sed hoodie letterpress artisan wolf leggings, 3 wolf moon commodo ullamco. Anim occupy ea labore Terry Richardson. Tofu ex master cleanse in whatever pitchfork banh mi, occupy fugiat fanny pack Austin authentic. Magna fugiat 3 wolf moon, labore McSweeney's sustainable vero consectetur. Gluten-free disrupt enim, aesthetic fugiat jean shorts trust fund keffiyeh magna try-hard.
+The Python programming language was conceived in the late 1980s and was named after the BBC TV show Monty Python’s Flying Circus. Guido van Rossum started implementing Python at CWI (Centrum Wiskunde & Informatica) in the Netherlands in December of 1989. This was a successor to the ABC programming language which was capable of exception handling and interfacing with the Amoeba operating system.
 
-## Hoodie Duis
+On October 16 of 2000, Python 2.0 released and it had many major new features including cycle-detecting garbage collector for memory management and support for Unicode.
 
-Actually salvia consectetur, hoodie duis lomo YOLO sunt sriracha. Aute pop-up brunch farm-to-table odio, salvia irure occaecat. Sriracha small batch literally skateboard. Echo Park nihil hoodie, aliquip forage artisan laboris. Trust fund reprehenderit nulla locavore. Stumptown raw denim kitsch, keffiyeh nulla twee dreamcatcher fanny pack ullamco 90's pop-up est culpa farm-to-table. Selfies 8-bit do pug odio.
+The next version of Python 3.0 released on December 3, 2008.
 
-### Thundercats Ho!
+## 4. Architechture of Python ?
 
-Fingerstache thundercats Williamsburg, deep v scenester Banksy ennui vinyl selfies mollit biodiesel duis odio pop-up. Banksy 3 wolf moon try-hard, sapiente enim stumptown deep v ad letterpress. Squid beard brunch, exercitation raw denim yr sint direct trade. Raw denim narwhal id, flannel DIY McSweeney's seitan. Letterpress artisan bespoke accusamus, meggings laboris consequat Truffaut qui in seitan. Sustainable cornhole Schlitz, twee Cosby sweater banh mi deep v forage letterpress flannel whatever keffiyeh. Sartorial cred irure, semiotics ethical sed blue bottle nihil letterpress.
+Let’s now talk about Python architecture and its usual flow –
 
-Occupy et selvage squid, pug brunch blog nesciunt hashtag mumblecore skateboard yr kogi. Ugh small batch swag four loko. Fap post-ironic qui tote bag farm-to-table american apparel scenester keffiyeh vero, swag non pour-over gentrify authentic pitchfork. Schlitz scenester lo-fi voluptate, tote bag irony bicycle rights pariatur vero Vice freegan wayfarers exercitation nisi shoreditch. Chambray tofu vero sed. Street art swag literally leggings, Cosby sweater mixtape PBR lomo Banksy non in pitchfork ennui McSweeney's selfies. Odd Future Banksy non authentic.
+-Parser
 
-Aliquip enim artisan dolor post-ironic. Pug tote bag Marfa, deserunt pour-over Portland wolf eu odio intelligentsia american apparel ugh ea. Sunt viral et, 3 wolf moon gastropub pug id. Id fashion axe est typewriter, mlkshk Portland art party aute brunch. Sint pork belly Cosby sweater, deep v mumblecore kitsch american apparel. Try-hard direct trade tumblr sint skateboard. Adipisicing bitters excepteur biodiesel, pickled gastropub aute veniam.
+It uses the source code to generate an abstract syntax tree.
+
+-Compiler
+
+It turns the abstract syntax tree into Python bytecode.
+
+-Interpreter
+
+It executes the code line by line in a REPL (Read-Evaluate-Print-Loop) fashion. 
+
+## 5. Python Constructs ?
+
+i. Functions
+A function in Python is a collection of statements grouped under a name. You can use it whenever you want to execute all those statements at a time. You can call it wherever you want and as many times as you want in a program. A function may return a value.
+
+ii. Classes
+As we discussed earlier, Python is an object-oriented language. It supports classes and objects. A class is an abstract data type. In other words, it is a blueprint for an object of a certain kind. It holds no values. An object is a real-world entity and an instance of a class.
+
+iii. Modules
+A Python module is a collection of related classes and functions. We have modules for mathematical calculations, string manipulations, web programming, and many more. We will discuss Python Module in detail in a later lesson.
+
+iv. Packages
+Python package is a collection of related modules. You can either import a package or create your own.
+
+v. List
+You can think of a list as a collection of values. Declared in the CSV (Comma-Separated Values) format and delimit using square brackets:
+
+life = [‘love’, ‘wisdom’, ‘anxiety’];
+arity = [1,2,3];
+Notice that we do not declare the type for the list either. A list may also contain elements of different types, and the indexing begins at 0:
+
+person = [‘firstname’, 21];
+print(person[1])
+Output: 21
+You can also slice lists; slicing is a way of retrieving some values from it. We will learn more about it in further lessons.
+
+vi. Tuple
+A tuple is like a list, but it is immutable (you cannot change its values).
+
+pizza = (‘base’, ‘sauce’, ‘cheese’, ‘mushroom’);
+pizza[3] = ‘jalapeno’
+This raises a TypeError.
+
+vii. Dictionary
+A dictionary is a collection of key-value pairs. Declare it using curly braces, and commas to separate key-value pairs. Also, separate values from keys using a colon (:).
+
+student = {‘Name’: ‘Abc’, ‘Age’: 21}
+print(student[‘Age’])
+Output: 21
+
+viii. Comments and Docstrings
+Declare comments using an octothorpe (#). However, Python does not support multiline comments. Also, docstrings are documentation strings that help explain the code.
+
+#This is a comment
+“““
+This is a docstring
+”””
+Python has a lot of other constructs. These include control structures, functions, exceptions, etc. We will discuss these in further tutorials.
+
+## 5. Python Features
+
+i. Easy
+
+Python is very easy to learn and understand; using this Python tutorial, any beginner can understand the basics of Python.
+
+ii. Interpreted
+
+It is interpreted(executed) line by line. This makes it easy to test and debug.
+
+iii. Object-Oriented
+
+The Python programming language supports classes and objects. We discussed these above.
+
+iv. Free and Open Source
+
+The language and its source code are available to the public for free; there is no need to buy a costly license.
+
+v. Portable
+
+Since it is open-source, you can run Python on Windows, Mac, Linux or any other platform. Your programs will work without needing to the changed for every machine.
+
+vi. GUI Programming
+
+You can use it to develop a GUI (Graphical User Interface). One way to do this is through Tkinter.
+
+vii. Large Library
+
+Python provides you with a large standard library. You can use it to implement a variety of functions without needing to reinvent the wheel every time. Just pick the code you need and continue. This lets you focus on other important tasks.
+
+## 6. Flavors of Python
+
+i. CPython
+This is the most widely accepted implementation of Python. It is written in the language C, and is an interpreter.
+
+ii. Jython
+Jython is a Python implementation written in Java. A Jython program can import any Java class. It compiles to Java bytecode.
+
+iii. IronPython
+IronPython is implemented in C#. It can function as an extensibility layer to application frameworks written in a .NET language.
+
+iv. Brython
+Brython stands for Browser Python. It is an implementation of Python that runs in the browser.
+
+v. RubyPython
+It acts as a bridge between the Python and Ruby interpreters. It marshals data between Python and Ruby virtual machines.
+
+vi. PyPy
+Interesting to know how PyPy is Python implemented in Python. This makes it faster and easier to experiment with. However, the standard implementation is CPython.
+
+vii. MicroPython
+This is an implementation of Python meant to run on a microcontroller. It uses a MicroPython board that runs MicroPython on bare metal.
+
+## 7. File Extensions in Python
+
+- py –The normal extension for a Python source file
+- pyc- The compiled bytecode
+- pyd- A Windows DLL file
+- pyo- A file created with optimizations
+- pyw- A Python script for Windows
+- pyz- A Python script archive
+
+
+# Thanks !!!
+
+## Furthermore, if you have any query, feel free to ask in the comment section.
