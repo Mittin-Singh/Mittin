@@ -10,8 +10,10 @@ tags:
 comments: true
 published: true
 ---
+# Python Introduction
 
 ![](../img/python_logo.png)
+<br>
 
 In this tutorial, we will introduce you to Python Programming. We will discuss about features of Python, Python architecture and its applications in the IT industry. Also, we will learn about Python in Data Science|Big Data|Machine Learning etc. and we will also prepare for Interview Questionaires as well.
 
