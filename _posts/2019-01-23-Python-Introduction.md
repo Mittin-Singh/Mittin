@@ -4,9 +4,8 @@ title: 'Python Introduction '
 date: 2019-01-23
 excerpt: A ton of text to test readability.
 tags:
-  - sample post
-  - readability
-  - test
+  - Python
+  - Programming
 comments: true
 published: true
 ---
