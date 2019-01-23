@@ -37,12 +37,12 @@ disqus_shortname:   taylantatli
   #ad-client:
   #ad-slot:
 #bing-verify:
-#email:             mittinsingh@gmail.com
+email:             mittinsingh@gmail.com
 twitter:            "Mittinpreet Singh/"
 facebook:           /Mittinpreet.Singh.Nayyar/
 github-url:         Mittin-Singh/
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
-#linkedin:          mittinpreet-singh-nayyar/
+linkedin:          mittinpreet-singh-nayyar/
 #xing:              username
 instagram:          mittinnayyar
 #lastfm:            username
@@ -50,7 +50,7 @@ instagram:          mittinnayyar
 #medium:            '@username'
 #pinterest:         username
 #foursquare:        username
-steam:              username
+#steam:              username
 #dribbble:          username
 #youtube:           username
 #youtube-channel:   channel
