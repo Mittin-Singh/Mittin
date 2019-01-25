@@ -8,9 +8,8 @@ tags:
 comments: true
 published: true
 ---
-# Python Introduction
 
-# metasyntactic Variable
+# Metasyntactic Variable
 
 ![](../img/metasyntactic_variable.jpg)
 <br>
@@ -23,11 +22,14 @@ Metasyntactic variables are used to name entities such as variables, functions, 
 
 ## foobar Origin
 
+![](../img/foo-bar.png)
+<br>
+
 We all when done work on some programming languages we might encounter with metasyntactic variables in life such as foo and bar. Did it ever encounter to your mind that why are we using these variables in programming.
 
 Let's discuss today
 
-<b>As per wikipedia:</b> The terms foobar (/ˈfuːbɑːr/), or foo and others are used as placeholder names (also referred to as metasyntactic variables) in computer programming or computer-related documentation.[1] They have been used to name entities such as variables, functions, and commands whose exact identity is unimportant and serve only to demonstrate a concept.
+<b> As per wikipedia: </b> The terms foo-bar (/ˈfuːbɑːr/), or foo and others are used as placeholder names (also referred to as metasyntactic variables) in computer programming or computer-related documentation.[1] They have been used to name entities such as variables, functions, and commands whose exact identity is unimportant and serve only to demonstrate a concept.
 
 ## History
 
