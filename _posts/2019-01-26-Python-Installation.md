@@ -9,7 +9,7 @@ tags:
 comments: true
 published: true
 ---
-# Python Introduction
+# Python Installation on windows
 
 ![](../img/python_installation.jpg)
 <br>
