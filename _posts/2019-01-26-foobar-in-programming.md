@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Python Installation'
+title: 'why foobar Metasyntactic Variable used in Programming'
 date: 2019-01-26
 excerpt: A ton of text to test readability.
 tags:
