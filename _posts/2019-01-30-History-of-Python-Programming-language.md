@@ -2,7 +2,7 @@
 layout: post
 title: 'Python History'
 date: 2019-01-26
-excerpt: A ton of text to test readability.
+excerpt: Brief History of Python Programming language.
 tags:
   - Python
   - Programming

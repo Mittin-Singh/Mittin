@@ -2,7 +2,7 @@
 layout: post
 title: 'Python Installation'
 date: 2019-01-26
-excerpt: A ton of text to test readability.
+excerpt: Python Installation on windows.
 tags:
   - Python
   - Programming
@@ -20,8 +20,8 @@ Go to Start Menu and type “PowerShell” to open it.
 
 Type the following command and hit the Enter/Return key:
 
- python --version
- Python 2.7.12
+     python --version
+     Python 2.7.12
 
  If you see output like this, Python is already installed. But most likely it is not. So…let’s install Python.
 
@@ -72,16 +72,16 @@ Go to the downloads section of the official Python website. Download the install
 
 After Python has installed close PowerShell. Then re-open it and try our command again. You should see the following:
 
-python --version
-Python 3.7.0
+      python --version
+      Python 3.7.0
 
 The version number might be slightly different than mine, 3.7.0, but the important thing is that Python 3 is now installed!
 
 To prove it to yourself, trying typing python to open the Python interpreter. And then type print("Hello, World") and hit Enter/Return. It should print out Hello, World on a new line.
 
-$ python
->>> print("Hello, World")
-Hello, World
+      $ python
+      >>> print("Hello, World")
+      Hello, World
 
 # Thanks !!!
 

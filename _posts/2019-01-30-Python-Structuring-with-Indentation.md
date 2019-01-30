@@ -1,31 +1,72 @@
 ---
 layout: post
-title: 'Python History'
+title: 'Python Structuring with Indentation'
 date: 2019-01-26
-excerpt: A ton of text to test readability.
+excerpt: Intendation in Python Language.
 tags:
   - Python
   - Programming
 comments: true
 published: true
 ---
-# Python History
+# Python Structuring with Indentation
 
-![](../img/python.jpg)
+![](../img/pythonlogo.jpg)
 <br>
 
-What do the alphabet and the programming language Python have in common? Right, both start with ABC. If we are talking about ABC in the Python context, it's clear that the programming language ABC is meant. ABC is a general-purpose programming language and programming environment, which had been developed in the Netherlands, Amsterdam, at the CWI (Centrum Wiskunde & Informatica). The greatest achievement of ABC was to influence the design of Python.
+A block is a group of statements in a program or script. Usually it consists of at least one statement and of declarations for the block, depending on the programming or scripting language. A language, which allows grouping with blocks, is called a block structured language. Generally, blocks can contain blocks as well, so we get a nested block structure. A block in a script or program functions as a mean to group statements to be treated as if they were one statement. In many cases, it also serves as a way to limit the lexical scope of variables and functions.
 
-Python was conceptualized in the late 1980s. Guido van Rossum worked that time in a project at the CWI, called Amoeba, a distributed operating system. In an interview with Bill Venners1, Guido van Rossum said: "In the early 1980s, I worked as an implementer on a team building a language called ABC at Centrum Wiskunde and Informatica (CWI). I don't know how well people know ABC's influence on Python. I try to mention ABC's influence because I'm indebted to everything I learned during that project and to the people who worked on it."
+Initially, in simple languages like Basic and Fortran, there was no way of explicitly using block structures. Programmers had to rely on "go to" structures, nowadays frowned upon, because "Go to programs" turn easily into spaghetti code, i.e. tangled and inscrutable control structures.
 
-Later on in the same Interview, Guido van Rossum continued: "I remembered all my experience and some of my frustration with ABC. I decided to try to design a simple scripting language that possessed some of ABC's better properties, but without its problems. So I started typing. I created a simple virtual machine, a simple parser, and a simple runtime. I made my own version of the various ABC parts that I liked. I created a basic syntax, used indentation for statement grouping instead of curly braces or begin-end blocks, and developed a small number of powerful data types: a hash table (or dictionary, as we call it), a list, strings, and numbers."
+The first time, block structures had been formalized was in ALGOL, called a compound statement.
 
-## How About Python Name
+Programming languages usually use certain methods to group statements into blocks:
+- begin ... end<br>
+  ALGOL, Pascal and others<br>
+  An code snippet in Pascal to show this usage of blocks:
 
-So, what about the name "Python": Most people think about snakes, and even the logo depicts two snakes, but the origin of the name has its root in British humour. Guido van Rossum, the creator of Python, wrote in 1996 about the origin of the name of his programming language1: "Over six years ago, in December 1989, I was looking for a 'hobby' programming project that would keep me occupied during the week around Christmas. My office ... would be closed, but I had a home computer, and not much else on my hands. I decided to write an interpreter for the new scripting language I had been thinking about lately: a descendant of ABC that would appeal to Unix/C hackers. I chose Python as a working title for the project, being in a slightly irreverent mood (and a big fan of Monty Python's Flying Circus)."
+            with ptoNode^ do
+            begin
+                x := 42;
+                y := 'X';
+            end;
 
-![](../img/zen_of_python.png)
-<br>
+- do ... done
+e.g. Bourne and Bash shell
+- Braces (also called curly brackets): { ... }<br>
+By far the most common approach, used by C, C++, Perl, Java, and many other programming languages are braces.<br>
+The following examples shows a conditional statement in C:
+        if (x==42) {
+            printf("The Answer to the Ultimate Question of Life, the Universe, and Everything\n");
+        } else {
+            printf("Just a number!\n");
+        }
+The indentations in this code fragment are not necessary. So the code could be written - offending common decency - as
+      if (x==42) {printf("The  Answer to the Ultimate Question of Life, the Universe, and Everything\n");} else {printf("Just a number!\n");}
+Please, keep this in mind to understand the advantages of Python!
+- if ... fi
+e.g. Bourne and Bash shell
+
+## Indenting Code
+
+Python uses a different principle. Python programs get structured through indentation, i.e. code blocks are defined by their indentation. Okay that's what we expect from any program code, isn't it? Yes, but in the case of Python it's a language requirement not a matter of style. This principle makes it easier to read and understand other people's Python code.
+
+So, how does it work? All statements with the same distance to the right belong to the same block of code, i.e. the statements within a block line up vertically. The block ends at a line less indented or the end of the file. If a block has to be more deeply nested, it is simply indented further to the right.
+
+Beginners are not supposed to understand the following example, because we haven't introduced most of the used structures, like conditional statements and loops. Please confer the following chapters about loops and conditional statements for explanations.
+The program implements an algorithm to calculate Pythagorean triples. You will find an explanation of the Pythagorean numbers in our chapter on for loops.
+
+    from math import sqrt
+    n = input("Maximum Number? ")
+    n = int(n)+1
+    for a in range(1,n):
+        for b in range(a,n):
+            c_square = a**2 + b**2
+            c = int(sqrt(c_square))
+            if ((c_square - c**2) == 0):
+                print(a, b, c)
+
+There is another aspect of structuring in Python, which we haven't mentioned so far, which you can see in the example. Loops and Conditional statements end with a colon ":" - the same is true for functions and other structures introducing blocks. So, we should have said Python structures by colons and indentation.
 
 ## Zen of Python
 
