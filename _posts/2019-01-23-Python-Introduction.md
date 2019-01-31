@@ -2,7 +2,7 @@
 layout: post
 title: 'Python Introduction '
 date: 2019-01-23
-excerpt: A ton of text to test readability.
+excerpt: Python Introduction.
 tags:
   - Python
   - Programming
@@ -16,10 +16,10 @@ published: true
 
 In this tutorial, we will introduce you to Python Programming. We will discuss about features of Python, Python architecture and its applications in the IT industry. Also, we will learn about Python in Data Science, Big Data, Machine Learning etc. and we will also prepare for Interview Questionaires as well.
 
-There’s a reason they choose Python as an introductory language for programming. 
-Simplicity 
+There’s a reason they choose Python as an introductory language for programming.
+Simplicity
 Concise
-Easiness to grasp Python Concept. 
+Easiness to grasp Python Concept.
 
 It also equips you to build so much.
 
@@ -57,7 +57,7 @@ It turns the abstract syntax tree into Python bytecode.
 
 -Interpreter
 
-It executes the code line by line in a REPL (Read-Evaluate-Print-Loop) fashion. 
+It executes the code line by line in a REPL (Read-Evaluate-Print-Loop) fashion.
 
 ## 5. Python Constructs ?
 
