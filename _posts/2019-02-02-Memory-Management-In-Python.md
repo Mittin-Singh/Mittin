@@ -91,7 +91,7 @@ CPython is written in C, which does not natively support object-oriented program
 
 You may have heard that everything in Python is an object, even types such as int and str. Well, it’s true on an implementation level in CPython. There is a struct called a PyObject, which every other object in CPython uses.
 
-Note: A struct, or structure, in C is a custom data type that groups together different data types. To compare to object-oriented languages, it’s like a class with attributes and no methods.
+    Note: A struct, or structure, in C is a custom data type that groups together different data types. To compare to object-oriented languages, it’s like a class with attributes and no methods.
 
 The PyObject, the grand-daddy of all objects in Python, contains only two things:
 
@@ -103,7 +103,7 @@ Each object has its own object-specific memory allocator that knows how to get t
 
 However, there’s an important factor in all this talk about allocating and freeing memory. Memory is a shared resource on the computer, and bad things can happen if two different processes try to write to the same location at the same time.
 
-The Global Interpreter Lock (GIL)
+## The Global Interpreter Lock (GIL)
 The GIL is a solution to the common problem of dealing with shared resources, like memory in a computer. When two threads try to modify the same resource at the same time, they can step on each other’s toes. The end result can be a garbled mess where neither of the threads ends up with what they wanted.
 
 Consider the book analogy again. Suppose that two authors stubbornly decide that it’s their turn to write. Not only that, but they both need to write on the same page of the book at the same time.
