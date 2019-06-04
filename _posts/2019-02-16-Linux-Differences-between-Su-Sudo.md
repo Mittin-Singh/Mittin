@@ -13,7 +13,8 @@ published: true
 ---
 # The Differences between Su, Sudo Su, Sudo -s and Sudo -i
 
-![](../img/pythonlogo.jpg)
+![](../img/sudo_1.png)
+
 <br>
 
 On the Linux command line there are many different ways to get a root session in the terminal. This can create some confusion, as most beginner users who are looking to gain root might not be familiar with how each command can gain root access, how they are different and when these differences matter.
@@ -21,6 +22,8 @@ It is because of this we will be taking apart each of the many different command
 
 
 ## SU
+
+![](../img/sudo.png)
 
 The su command substitutes the current user in use by the system in the shell. You can switch to any user by taking su and adding a username by it. This will tell the system to switch (and essentially log out of) the current user to the one specified. Alternatively, the su command can gain root access by entering su without specifying anything after the command.
 
