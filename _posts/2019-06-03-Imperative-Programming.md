@@ -22,7 +22,7 @@ To make programs simpler for a human to read and write, imperative statements ca
 
 
 
-- [Ada](https://en.wikipedia.org/wiki/Ada_(programming_language)
+- [Ada](https://en.wikipedia.org/wiki/Ada_(programming_language))
 - [ALGOL](https://en.wikipedia.org/wiki/ALGOL_68)
 - [Assembly language](https://en.wikipedia.org/wiki/Assembly_language)
 - [BASIC](https://en.wikipedia.org/wiki/BASIC)
