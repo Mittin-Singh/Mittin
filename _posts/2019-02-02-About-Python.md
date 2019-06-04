@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'About Python'
-date: 2019-01-23
+date: 2019-02-02
 excerpt: About Python.
 tags:
   - Python

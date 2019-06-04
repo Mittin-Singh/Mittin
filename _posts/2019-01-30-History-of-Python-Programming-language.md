@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Python History'
-date: 2019-01-26
+date: 2019-01-30
 excerpt: Brief History of Python Programming language.
 tags:
   - Python

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Until Command in Linux '
-date: 2019-01-23
+date: 2019-03-02
 excerpt: Until Command in Linux.
 tags:
   - Linux

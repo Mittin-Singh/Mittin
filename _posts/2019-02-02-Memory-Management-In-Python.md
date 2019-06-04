@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Python Memory Management'
-date: 2019-01-23
+date: 2019-02-02
 excerpt: Python Memory Management.
 tags:
   - Python
