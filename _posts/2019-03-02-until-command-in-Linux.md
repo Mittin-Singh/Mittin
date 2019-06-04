@@ -11,7 +11,7 @@ published: true
 ---
 # Linux Until Command
 
-<center>![](../img/until.png)<center>
+![](../img/until.png)
 <br>
 
 until command in Linux used to execute a set of commands as long as the final command in the ‘until’ Commands has an exit status which is not zero. It is mostly used where the user needs to execute a set of commands until a condition is true.
