@@ -2,7 +2,7 @@
 layout: post
 title: 'Today Wordle Answer '
 date: 2022-02-11
-excerpt: Wordle Puzzle Answer.
+excerpt: Today Wordle Answer.
 tags:
   - Game
   - Wordle
