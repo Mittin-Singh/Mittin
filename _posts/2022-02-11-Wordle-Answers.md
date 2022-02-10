@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Today’s Wordle Answer'
+title: 'Today Wordle Answer'
 date: 2022-02-11
 excerpt: Wordle Answer: All Words For 2022
 tags:
