@@ -1,16 +1,15 @@
 ---
 layout: post
-title: 'Today Wordle Answer'
+title: 'Today Wordle Answer '
 date: 2022-02-11
-excerpt: Wordle Answer: All Words For 2022
+excerpt: Wordle Answer.
 tags:
+  - Game
   - Wordle
-  - Logical Answering
-  - game
+  - Puzzle
 comments: true
 published: true
 ---
-
 # Wordle Game
 
 ![](../img/wordle.png)
