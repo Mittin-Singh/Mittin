@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Today Wordle Answer '
-date: 202-02-11
+date: 2022-02-10
 excerpt: Today Wordle Answer.
 tags:
   - Game
