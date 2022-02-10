@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Today Wordle Answer '
+title: "Today's Wordle Answer "
 date: 2022-02-10
 excerpt: Today Wordle Answer.
 tags:
