@@ -25,6 +25,7 @@ Wardle initially created the game for himself and his partner to play, eventuall
 
 ## Feb
 
+- Feb 12 - #238 - ULTRA
 - Feb 11 - #237 - ULCER
 - Feb 10 - #236 - PAUSE
 - Feb 09 - #235 - HUMOR
