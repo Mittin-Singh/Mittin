@@ -25,6 +25,7 @@ Wardle initially created the game for himself and his partner to play, eventuall
 
 ## Feb
 
+- Feb 15 - #241 - AGORA
 - Feb 14 - #240 - CYNIC
 - Feb 13 - #239 - ROBIN
 - Feb 12 - #238 - ULTRA
