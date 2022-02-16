@@ -25,7 +25,7 @@ Wardle initially created the game for himself and his partner to play, eventuall
 
 ## Feb
 
-- Feb 16 - #242 CAULK
+- Feb 16 - #242 - CAULK
 - Feb 15 - #241 - AGORA
 - Feb 14 - #240 - CYNIC
 - Feb 13 - #239 - ROBIN
@@ -60,7 +60,7 @@ Listed below is every single Wordle word from January 2022.
 - Jan 12 - #207 - FAVOR
 - Jan 13 - #208 - ABBEY
 - Jan 14 - #209 - TANGY
-- Jan 15 - #210 -  PANIC
+- Jan 15 - #210 - PANIC
 - Jan 16 - #211 - SOLAR
 - Jan 17 - #212 - SHIRE
 - Jan 18 - #213 - PROXY
