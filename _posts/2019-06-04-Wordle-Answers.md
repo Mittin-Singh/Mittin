@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Today's Wordle Answer "
-date: 2022-02-10
+date: 2022-02-16
 excerpt: Today Wordle Answer.
 tags:
   - Game
@@ -25,7 +25,7 @@ Wardle initially created the game for himself and his partner to play, eventuall
 
 ## Feb
 
-- Feb 16 - #242 - CAULK
+- Feb 16 - #242 CAULK
 - Feb 15 - #241 - AGORA
 - Feb 14 - #240 - CYNIC
 - Feb 13 - #239 - ROBIN
