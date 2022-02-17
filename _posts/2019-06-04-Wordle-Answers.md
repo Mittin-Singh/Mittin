@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Today's Wordle Answer "
-date: 2022-02-10
+date: 2022-02-16
 excerpt: Today Wordle Answer.
 tags:
   - Game
@@ -61,7 +61,7 @@ Listed below is every single Wordle word from January 2022.
 - Jan 12 - #207 - FAVOR
 - Jan 13 - #208 - ABBEY
 - Jan 14 - #209 - TANGY
-- Jan 15 - #210 -  PANIC
+- Jan 15 - #210 - PANIC
 - Jan 16 - #211 - SOLAR
 - Jan 17 - #212 - SHIRE
 - Jan 18 - #213 - PROXY
