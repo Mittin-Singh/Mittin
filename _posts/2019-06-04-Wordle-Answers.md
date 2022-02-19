@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Today's Wordle Answer "
-date: 2022-02-19
+date: 2022-02-20
 excerpt: Today Wordle Answer.
 tags:
   - Game
@@ -25,6 +25,7 @@ Wardle initially created the game for himself and his partner to play, eventuall
 
 ## Feb
 
+- Feb 20 - #246 - TACIT
 - Feb 19 - #245 - SWILL
 - Feb 18 - #244 - DODGE
 - Feb 17 - #243 - SHAKE
