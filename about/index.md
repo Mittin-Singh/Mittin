@@ -9,7 +9,8 @@ comments: false
 <!-- <center><a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center> -->
 
 ## Mittinpreet Singh Nayyar
-* Technical Program Manager II at <a href='https://www.microsoft.com/en-us/about/company'>Microsoft Azure. </a>(Feb 2021 - Present)
+* Global AI/ML Practice Leader at <a href='https://celebaltech.com/'> Celebal Technologies. </a>(Aug 2023 - Present)
+* Technical Program Manager II at <a href='https://www.microsoft.com/en-us/about/company'>Microsoft Azure. </a>(Feb 2021 - Aug 2023)
 * Data Scientist/Big Data Developer at <a href='https://www.qualcomm.com/company/about'>Qualcomm Inc. </a>(Feb, 2018 - Jan 2021)
 * Big Data Deeloper at <a href= 'https://www8.hp.com/in/en/hp-information/index.html'>HP (Hewlett-Packard)</a> (May, 2015 - Jan 2018)  
 * Bachelor of Technology (C.S.E) Graduation at <a href='https://www.acetamritsar.ac.in/'> ACET (Amritsar College of Engineering and Technology) </a>(Aug, 2011 - May, 2014) 
