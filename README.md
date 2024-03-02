@@ -1,4 +1,4 @@
-# Mittinpreet Singh Blog [![Donate](https://img.shields.io/badge/paypal-donate-blue.svg)](https://www.paypal.me/taylantatli/0usd)  
+# Mittin PS Nayyar Blog [![Donate](https://img.shields.io/badge/paypal-donate-blue.svg)](https://www.paypal.me/taylantatli/0usd)  
   
 ## ` DATA SCIENCE | AI | BIG DATA | AWS | PYTHON .`
     
